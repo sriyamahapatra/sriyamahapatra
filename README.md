@@ -1,4 +1,4 @@
-<img align="right" src="https://i.imgur.com/zk7YF5f.gif" width="250"/>
+<img align="right" src="https://camo.githubusercontent.com/27989c4b5f9a79d2d4722da61a9e8a823341d30e34df6e9b76331c78f0c8fa57/68747470733a2f2f692e696d6775722e636f6d2f7a6b37594635662e676966" width="250"/>
 # 🌸 Hey, I'm Sriya Mahapatra!
 
 👩‍💻 Full-Stack Developer who loves building clean UIs, fast backends, and exploring how AI can make the web smarter.  
