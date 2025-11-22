@@ -22,6 +22,7 @@ I enjoy writing beautiful code, crafting intuitive user experiences, and turning
 📧 **sriyamahapatra767@gmail.com**  
 🐙 **GitHub:** sriyamahapatra  
 💼 **LinkedIn:** linkedin.com/in/sriya-mahapatra-b79354271/
+
 🔗 **LeetCode:** https://leetcode.com/u/sriyamahapatra767/
  
 
