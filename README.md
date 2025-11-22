@@ -1,5 +1,3 @@
-<img align="right" src="https://i.imgur.com/zk7YF5f.gif" width="250"/>
-
 # 🌸 Hey, I'm Sriya Mahapatra!
 
 👩‍💻 Full-Stack Developer who loves building clean UIs, fast backends, and exploring how AI can make the web smarter.  
