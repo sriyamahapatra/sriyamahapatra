@@ -1,16 +1,33 @@
-## Hi there 👋
+<img align="right" src="https://i.imgur.com/zk7YF5f.gif" width="250"/>
+# 🌸 Hey, I'm Sriya Mahapatra!
 
-<!--
-**sriyamahapatra/sriyamahapatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Full-Stack Developer who loves building clean UIs, fast backends, and exploring how AI can make the web smarter.  
+I enjoy writing beautiful code, crafting intuitive user experiences, and turning ideas into polished digital products.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ What I Do
+- Build full-stack apps with **React, TypeScript, Node.js & Spring Boot**  
+- Design responsive, aesthetic interfaces with **Tailwind & modern CSS**  
+- Work with databases like **MongoDB, PostgreSQL & MySQL**
+- Other: **Git · Cloud · GenAI**
+
+---
+
+## 🌐 Portfolio
+✨ **https://sriya-mahapatra.vercel.app/**
+
+---
+
+## 📬 Connect
+📧 **sriyamahapatra767@gmail.com**  
+🐙 **GitHub:** sriyamahapatra  
+💼 **LinkedIn:** linkedin.com/in/sriya-mahapatra-b79354271/
+🔗 **LeetCode:** https://leetcode.com/u/sriyamahapatra767/
+ 
+
+---
+
+## 🌱 Current Focus
+Learning advanced system design, building better UI patterns, and integrating AI into modern web apps.
+
